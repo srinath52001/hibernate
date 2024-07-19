@@ -1,6 +1,4 @@
 
-2
-java:S1700"Rename field "question"(·î”Ûøÿÿÿÿ
-p	java:S116"VRename this field "question_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯®‚ýÿÿÿÿ
-i
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜»¡
+X
+java:S1700"Rename field "question"(·î”ÛøÿÿÿÿJ$7bf0d260-a75a-4de4-bdc2-f30ebe874d67
+–	java:S116"VRename this field "question_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯®‚ýÿÿÿÿJ$78af72a8-3a9d-4f37-aecb-cbf697a59bd0

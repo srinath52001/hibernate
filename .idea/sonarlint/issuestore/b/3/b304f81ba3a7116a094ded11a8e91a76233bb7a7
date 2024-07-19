@@ -1,6 +1,4 @@
 
-+
-java:S1700"Rename field "answer"(åÿÑÌ
-n	java:S116"TRename this field "answer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ş¹şÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'javax.crypto.Mac'.(çëûÿÿÿÿ
+Q
+java:S1700"Rename field "answer"(åÿÑÌJ$ffa36e5b-17ad-4839-8d40-673b3b5305d7
+”	java:S116"TRename this field "answer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ş¹şÿÿÿÿJ$a32c985e-fd03-4567-9e34-9926f0d83d16

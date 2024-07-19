@@ -2,7 +2,7 @@ package org.demo;
 
 import lombok.Data;
 
-import javax.crypto.Mac;
+
 import javax.persistence.*;
 
 @Entity

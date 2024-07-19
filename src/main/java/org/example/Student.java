@@ -1,7 +1,6 @@
 package org.example;
 
 import javax.persistence.*;
-import java.util.Arrays;
 
 @Entity
 @Table(name = "student_tab")

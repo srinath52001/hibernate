@@ -1,7 +1,6 @@
 package org.demo;
 
 import lombok.Data;
-import org.demo.Answer;
 
 import javax.persistence.*;
 import java.util.List;

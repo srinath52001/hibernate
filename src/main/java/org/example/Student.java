@@ -13,7 +13,7 @@ public class Student {
     private String desg;
 
     private Certificate certi;
-    
+
 
     public void setCerti(Certificate certi) {
         this.certi = certi;

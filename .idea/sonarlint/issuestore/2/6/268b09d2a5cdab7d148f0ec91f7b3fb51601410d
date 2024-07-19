@@ -1,0 +1,11 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+@	java:S106"+Replace this use of System.out by a logger.(“»ˆ’
+V	java:S125"<This block of commented-out lines of code should be removed.(±ë²ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(„íí
+V	java:S125""<This block of commented-out lines of code should be removed.(ƒÛÆšÿÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+U
+java:S1128	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ

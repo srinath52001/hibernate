@@ -1,5 +1,9 @@
 
-|	java:S125"<This block of commented-out lines of code should be removed.(¦Ì¿ĞÿÿÿÿÿJ$cbde44cd-0613-4925-ab4a-f327f102f98a
-w	java:S125'"<This block of commented-out lines of code should be removed.(ïŸÏ™J$c9310bdd-3967-4a93-ba8b-871bca9b5dd7
-|	java:S125B"<This block of commented-out lines of code should be removed.(§£ÎŒÿÿÿÿÿJ$7831a335-8aaf-4040-ba7d-2f95c53a7050
-w	java:S125F"<This block of commented-out lines of code should be removed.(ºèæŸJ$c105a3cd-7a0a-4c4b-9b0e-c7f3fa16a447
+œ
+java:S1450"TRemove the "certi" field and declare it as a local variable in the relevant methods.(×Ãâüÿÿÿÿ8ºÛËÖŒ2J$fcff99d2-5cd0-4b57-bf7c-3c9b8719c1b6
+|	java:S125"<This block of commented-out lines of code should be removed.(¦Ì¿ĞÿÿÿÿÿJ$dc9262eb-6abe-41d2-bfb6-ca116d2b3788
+w	java:S125$"<This block of commented-out lines of code should be removed.(ïŸÏ™J$1fab65dc-7c1b-4790-ba7c-9707c25543c3
+|	java:S125?"<This block of commented-out lines of code should be removed.(§£ÎŒÿÿÿÿÿJ$c612f30f-6bc7-4e1b-9c53-d4a080395470
+w	java:S125C"<This block of commented-out lines of code should be removed.(ºèæŸJ$9b4b09bf-39b0-4c0a-ac71-8230cdca2f91
+q
+java:S1068")Remove this unused "certi" private field.(×Ãâüÿÿÿÿ8ÀÛËÖŒ2J$b5bda0c1-8546-43af-8c91-d273f64dbb48
